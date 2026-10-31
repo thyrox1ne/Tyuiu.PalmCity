@@ -1,0 +1,15 @@
+[theme]
+# Основной цвет (акценты, выбранные элементы, ползунки)
+primaryColor = "#0A0F44"
+
+# Цвет фона основной страницы
+backgroundColor = "#FBF9F5"
+
+# Цвет боковой панели и контейнеров/плашек
+secondaryBackgroundColor = "#0A0F44"
+
+# Цвет текста
+textColor = "#0A0F44"
+
+# Шрифты: 'sans serif', 'serif' или 'monospace'
+font = "sans serif"
