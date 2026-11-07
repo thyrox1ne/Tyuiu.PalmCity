@@ -7,11 +7,11 @@ st.header('Информационно-аналитический модуль г
 
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.metric('ЖКХ', 64)
+    st.metric('ЖКХ', 64, -1.8)
 with col2:
-    st.metric('Транспорт', 40)
+    st.metric('Транспорт', 40, 4.5)
 with col3:
-    st.metric('Социалка', -50)
+    st.metric('Социалка', 50, 6.9)
 
 col1, col2 = st.columns([4,2])
 
